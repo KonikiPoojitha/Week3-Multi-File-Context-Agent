@@ -23,21 +23,21 @@ Technologies Used
 Project Structure
 
 Week3-Multi-File-Context-Agent/
-
+│
 ├── ai_agent.py          
-├── calculator.py       
+├── calculator.py        
 ├── context_builder.py   
-├── editor.py            
+├── editor.py          
 ├── executor.py          
 ├── llm.py               
 ├── main.py              
 ├── test_calculator.py   
 │
 ├── logs/                
-├── .env.example         
+├── .env.example        
 ├── .gitignore           
 ├── requirements.txt     
-└── README.md            
+└── README.md                      
 
 Installation and Setup
 
