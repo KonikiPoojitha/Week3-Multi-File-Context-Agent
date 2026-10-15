@@ -23,19 +23,21 @@ Technologies Used
 Project Structure
 
 Week3-Multi-File-Context-Agent/
-├── logs/
-├── .env.example
-├── .gitignore
-├── README.md
-├── ai_agent.py
-├── calculator.py
-├── context_builder.py
-├── editor.py
-├── executor.py
-├── llm.py
-├── main.py
-├── requirements.txt
-└── test_calculator.py
+│
+├── ai_agent.py          # AI agent logic
+├── calculator.py        # Calculator operations
+├── context_builder.py   # Multi-file context building
+├── editor.py            # File editing
+├── executor.py          # Task execution
+├── llm.py               # Language model integration
+├── main.py              # Main application entry point
+├── test_calculator.py   # Calculator unit tests
+│
+├── logs/                # Application log files
+├── .env.example         # Environment variable template
+├── .gitignore           # Git ignore rules
+├── requirements.txt     # Project dependencies
+└── README.md            # Project documentation
 
 Installation and Setup
 
