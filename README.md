@@ -22,8 +22,8 @@ Technologies Used
 
 Project Structure
 
-Week3-Multi-File-Context-Agent/
-│
+Week3-Multi-File-Context-Agent
+
 ├── ai_agent.py          # AI agent logic
 ├── calculator.py        # Calculator operations
 ├── context_builder.py   # Multi-file context building
